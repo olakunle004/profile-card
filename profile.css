@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+#app {
+     width: 100%;
+     padding: 10rem;
+
+}
+main {
+    width: 340px;
+    padding: 0.5rem;
+    outline: 1px solid black;
+    box-shadow: 0 1px 2px 2px #c1c1c1;
+    border-radius: 0.7rem;
+    margin: 2rem auto 3rem;
+}
+
+.icon {
+    width: 3.2rem;
+    height: 3.2rem;
+}
+
+.avatar {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+   list-style: none;
+   text-align: center;
+   margin-bottom: 2rem;
+}
+.social-icon {
+    display: inline-block;
+    margin-right: 4rem;
+}
+
+p {
+    margin: 5rem 0;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+}
